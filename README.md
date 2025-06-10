@@ -21,6 +21,7 @@ Scrollable View: Easily manage a large number of notes with a scrollable list.
 
 Python 3.x
 Tkinter (usually included with Python standard library)
+
 **How to Run**
 
 Save the provided Python code as a file (e.g., sticky_notes.py).
